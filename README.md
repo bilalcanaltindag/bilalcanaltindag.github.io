@@ -1,1 +1,1 @@
-### To reach my site [Demo](https://bilalcanaltindag.github.io/)
+### You can quickly review the project [Demo](https://bilalcanaltindag.github.io/)
