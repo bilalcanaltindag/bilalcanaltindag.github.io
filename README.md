@@ -1,1 +1,1 @@
-### You can quickly review the project [Demo](https://bilalcanaltindag.github.io/)
+### You can quickly review the project: [Live Demo](https://bilalcanaltindag.github.io/)
